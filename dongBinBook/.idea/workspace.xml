@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71db004a-0983-4f02-bad8-4f145119ecb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../algorithms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dongBinBook.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch5/Ex5_11.java" afterDir="false" />
-    </list>
+    <list default="true" id="71db004a-0983-4f02-bad8-4f145119ecb3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +109,7 @@
       <workItem from="1616630041534" duration="121000" />
       <workItem from="1616630217038" duration="1577000" />
       <workItem from="1616631830636" duration="529000" />
-      <workItem from="1616632383489" duration="337000" />
+      <workItem from="1616632383489" duration="533000" />
     </task>
     <servers />
   </component>
