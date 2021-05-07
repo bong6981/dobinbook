@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="125bfd6c-0163-4e01-93de-552104bd7c5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Boj.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/Boj_1000.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Boj.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boj/bronzeV/boj_1000.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bronzeIV/Boj_1330.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bronzeIV/Boj_1330.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bronzeV/Boj_1330.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/etc/Boj_1001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/bronzeV/Boj_1330.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +23,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1sBTPkUoSn7RrTYH0rMkD12MyY3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -55,13 +52,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -81,6 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1620344963778</updated>
       <workItem from="1620344966281" duration="726000" />
+      <workItem from="1620345883198" duration="120000" />
     </task>
     <servers />
   </component>
