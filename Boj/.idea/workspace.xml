@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="125bfd6c-0163-4e01-93de-552104bd7c5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etc/Boj_1001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/etc/Boj_1330.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/src/bronzeV/Boj_1330.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../javaJungSuck" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../codesquad_project/baseball/baseball/be" />
   </component>
   <component name="RunManager">
     <configuration name="Boj_1000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -48,19 +46,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -81,6 +66,7 @@
       <updated>1620344963778</updated>
       <workItem from="1620344966281" duration="726000" />
       <workItem from="1620345883198" duration="120000" />
+      <workItem from="1620346362640" duration="1268000" />
     </task>
     <servers />
   </component>
