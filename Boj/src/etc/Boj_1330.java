@@ -5,12 +5,17 @@ import java.util.Scanner;
 public class Boj_1330 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int a = sc.nextInt();
-        int b = sc.nextInt();
+        int x = sc.nextInt();
+        int y = sc.nextInt();
 
-        if(a>b) {
+        int result = x - y;
+
+        if (result == 0) {
+            System.out.println("==");
+        } else if (result < 0) {
+            System.out.println("<");
+        } else {
             System.out.println(">");
-        }  else if(a>b) {
-
-    }                 System.out.println(">");
-}                 }
+        }
+    }
+}
